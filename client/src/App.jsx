@@ -1,10 +1,11 @@
 
 
-function App() {
- 
-return(
-  <h1>jhvgvf</h1>
-)
+import React from 'react'
+
+const App = () => {
+  return (
+    <div className='text-amber-600'>App</div>
+  )
 }
 
 export default App
