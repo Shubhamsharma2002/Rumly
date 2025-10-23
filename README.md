@@ -4,10 +4,7 @@
 
 
 ---
-
-
 ## 🧠 Features
-
 - 🗨️ Real-time messaging (1-on-1 & group)
 - 🏠 Room creation and management
 - 🎥 Audio and Video calling (WebRTC)
