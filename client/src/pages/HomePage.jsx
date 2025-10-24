@@ -14,6 +14,7 @@ const HomePage = () => {
             : "md:grid-cols-2"
         }  `}
       >
+        
         <Sidebar />
         <ChatContainer />
         <RightSidebar />
