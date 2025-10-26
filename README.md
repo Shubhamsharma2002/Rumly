@@ -1,5 +1,6 @@
 # 🚀 Rumly
 
+
 **Rumly** is a real-time chat and communication platform that lets users create rooms, chat, and connect via audio and video calls — all in one place. Built with a powerful full-stack architecture using **React**, **Node.js**, and **WebRTC** . 
 
 
