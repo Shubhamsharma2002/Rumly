@@ -7,6 +7,7 @@ import LoginPage from './pages/LoginPage'
 import ProfilePage from './pages/ProfilePage'
 
 const App = () => {
+  
 
   return (
     <div className=" bg-[url('./src/assets/bgimage.svg')]  bg-contain " >
